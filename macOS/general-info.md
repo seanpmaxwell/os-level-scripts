@@ -1,3 +1,4 @@
+# General Info
 
 #### Send machine and operating system info to a text file
 ```sh
