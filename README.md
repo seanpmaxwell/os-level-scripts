@@ -3,5 +3,4 @@ Collection of scripts I find useful for my operating systems
 
 
 ## Table of Contents
-- [Send machine and operating system info to a text file](./macOS/general-info.md:#L5)
-- 
+- [Send machine and operating system info to a text file](./macOS/general-info.md#L3)
