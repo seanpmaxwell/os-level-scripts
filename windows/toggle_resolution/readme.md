@@ -1,4 +1,5 @@
 ## Instructions
+This is in powershell so it only works in windows. 
 
 1. Copy this whole folder onto your computer to a spot where you can leave it forever.
 2. Double click the create shortcut file once
