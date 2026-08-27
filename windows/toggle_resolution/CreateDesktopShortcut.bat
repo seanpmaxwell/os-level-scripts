@@ -1,7 +1,4 @@
 @echo off
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0ToggleResolution.ps1"
-maxwvsea@80a9970d2007 Toggle_Resolution % cat Create\ Desktop\ Shortcut.bat
-@echo off
 :: Create Desktop Shortcut.bat
 :: Put this in the SAME folder as ToggleResolution.ps1 and double-click it ONCE.
 :: It creates a "Toggle Resolution" shortcut on your desktop with a monitor icon.
